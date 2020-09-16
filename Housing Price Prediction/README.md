@@ -24,9 +24,9 @@ Kaggle link of Competitions : https://www.kaggle.com/c/house-prices-advanced-reg
 The plots for various columns were observed for relations between them. Below are a few of the important revelations.
 Also the sales and the probability were highly morphed. They were normalized by fitting to the norm method,  
 
-![alt text](https://github.com/therrshan/Kaggle-Advanced-Regression/blob/master/correlation.png "Relations between some of the values")
-![alt text](https://github.com/therrshan/Kaggle-Advanced-Regression/blob/master/normalized.png "Normalized curve of sales")
-![alt text](https://github.com/therrshan/Kaggle-Advanced-Regression/blob/master/normP.png "Normalized curve of probability")
+![alt text](https://github.com/therrshan/Kaggle-Solutions/blob/master/Housing%20Price%20Prediction/Images/correlation.png "Relations between some of the values")
+![alt text](https://github.com/therrshan/Kaggle-Solutions/blob/master/Housing%20Price%20Prediction/Images/normalized.png "Normalized curve of sales")
+![alt text](https://github.com/therrshan/Kaggle-Solutions/blob/master/Housing%20Price%20Prediction/Images/normP.png "Normalized curve of probability")
 
 ## Model Building 
 
