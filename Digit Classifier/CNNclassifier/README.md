@@ -18,7 +18,7 @@ Kaggle link of Competitions : https://www.kaggle.com/c/digit-recognizer/overview
 * There are no missing values in the train and test dataset. So we can safely go ahead.
 * But the table of data is not enough as we have to split the label, or what we are predicting, from the training data, or the pixels.
 
-<img src="https://github.com/therrshan/Kaggle-Digit-Classifier/blob/master/images/3.png" alt="" width="400" height="300" align="centre">
+<img src="https://github.com/therrshan/Kaggle-Solutions/blob/master/Digit%20Classifier/images/3.png" alt="" width="400" height="300" align="centre">
 
 ## Model Building 
 
@@ -58,7 +58,7 @@ I did not apply a vertical_flip nor horizontal_flip since it could have lead to 
 
 ### Model error plots for further analysis:
 
-<img src="https://github.com/therrshan/Kaggle-Digit-Classifier/blob/master/images/2.png" alt="" width="400" height="300"> <img src="https://github.com/therrshan/Kaggle-Digit-Classifier/blob/master/images/1.png" alt="" width="400" height="300" >
+<img src="https://github.com/therrshan/Kaggle-Solutions/blob/master/Digit%20Classifier/images/2.png" alt="" width="400" height="300"> <img src="https://github.com/therrshan/Kaggle-Solutions/blob/master/Digit%20Classifier/images/1.png" alt="" width="400" height="300" >
 
  
 ## Model performance
