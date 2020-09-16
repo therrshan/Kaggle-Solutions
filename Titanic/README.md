@@ -13,9 +13,9 @@ Kaggle link of Competitions : https://www.kaggle.com/c/titanic
 * Go through each feature / coloumn and based on the number of missing values or in general the relation with survived members, decide wether or not to add in the training data frame.
 * Also convert non integer feilds into integer to store in df_train_int
 
-<img src="https://github.com/therrshan/Kaggle-Titanic/blob/master/Images/1.png" alt="">
+<img src="https://github.com/therrshan/Kaggle-Solutions/tree/master/Titanic/Images1.png" alt="">
 
-<img src="https://github.com/therrshan/Kaggle-Titanic/blob/master/Images/imp.png" alt="">
+<img src="https://github.com/therrshan/Kaggle-Solutions/tree/master/Titanic/Imagesimp.png" alt="">
 
 ## Model Building 
 
