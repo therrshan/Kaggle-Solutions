@@ -23,7 +23,7 @@ Kaggle link of Competitions : https://www.kaggle.com/c/digit-recognizer/overview
 
 * First, we have the n_neighbors parameter, which denotes how many neighbors we should compare each point with. Remember to keep in mind how large your training data is and how distinct your labels are, as too many neighbors many result in large influences from wrong labels and groups.
 
-<img src="https://github.com/therrshan/Kaggle-Digit-Classifier/blob/master/images/KNN.png" alt="" width="600" height="400">
+<img src="https://github.com/therrshan/Kaggle-Solutions/blob/master/Digit%20Classifier/images/KNN.png" alt="" width="600" height="400">
 
 ### Naive Bayes Classifier
 
@@ -33,12 +33,12 @@ Kaggle link of Competitions : https://www.kaggle.com/c/digit-recognizer/overview
 #### Gaussian Naive Bayes
 * Gaussian distribution is similar except it uses the Gaussian distrubtion to predict. Therefore, the distribution is preset, regardless of the data, and using the normal Gaussian distribution, the Naive Bayes model is able to make its predictions.
 
-<img src="https://github.com/therrshan/Kaggle-Digit-Classifier/blob/master/images/normal.png" alt="" width="600" height="400">
+<img src="https://github.com/therrshan/Kaggle-Solutions/blob/master/Digit%20Classifier/images/normal.png" alt="" width="600" height="400">
 
 #### Bernoulli Naive Bayes
 * Bernoulli Naive Bayes Classifer. This basically implements a binomial distribution, which is similar to the multinomial distribution, except it uses 0 and 1s in a boolean fashion. Therefore, values are either present or not, whereas the count of the value is obsolete. This model should technically be the best one to use on our model. 
 
-<img src="https://github.com/therrshan/Kaggle-Digit-Classifier/blob/master/images/binomial.png" alt="" width="600" height="400">
+<img src="https://github.com/therrshan/Kaggle-Solutions/blob/master/Digit%20Classifier/images/binomial.png" alt="" width="600" height="400">
 
 
 ### XGBoost Classifier
@@ -46,7 +46,7 @@ Kaggle link of Competitions : https://www.kaggle.com/c/digit-recognizer/overview
 
 * For this data, the tree method should work out pretty well, especially because each number will cover different pixels, so different combinations of pixels should be a pretty strong way to differentiate between the labels.
 
-<img src="https://github.com/therrshan/Kaggle-Digit-Classifier/blob/master/images/xgboost.png" alt="" width="600" height="400">
+<img src="https://github.com/therrshan/Kaggle-Solutions/blob/master/Digit%20Classifier/images/xgboost.png" alt="" width="600" height="400">
 
 
 ## Model performance
