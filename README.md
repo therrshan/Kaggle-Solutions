@@ -8,3 +8,4 @@
 2. TITANIC
 3. DIGIT CLASSIFIER
 4. Makeup or No makeup
+5. Sentiment Analysis on Movie Reviews
